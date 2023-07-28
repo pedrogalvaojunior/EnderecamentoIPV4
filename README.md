@@ -4,4 +4,4 @@ Neste repositório você vai encontrar um conjunto de scripts implementados a pa
 
 Em destaque como podemos controlar o crescimento dos arquivos de dados e log ao longo do processamento de cada faixa de IPv4, afim de evitar sobrecarga de processamento e uso descontrolado de espaço em disco.
 
-Ademais, a possibilidade de se apresentar qualquer endereço IPv4 nos formatos binários ou decimais.
+Ademais, a possibilidade de apresentar qualquer endereço IPv4 nos formatos binários ou decimais.
