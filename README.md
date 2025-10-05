@@ -50,10 +50,12 @@ O projeto está dividido em **6 passos sequenciais**, cada um com um script `.sq
 
 ```sql
 -- Exibir os primeiros 100 endereços IPv4 gerados
-SELECT TOP 100 * FROM EnderecosIPv4;
+SELECT TOP 100 * FROM EnderecosIPv4
+Go
 
 -- Exibir endereços no formato binário
-SELECT EnderecoDecimal, EnderecoBinario FROM EnderecosIPv4;
+SELECT EnderecoDecimal, EnderecoBinario FROM EnderecosIPv4
+Go
 
 ```
 
