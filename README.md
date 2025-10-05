@@ -1,7 +1,3 @@
-Claro, Pedro! Aqui está o texto completo do `README.md` para o projeto **Endereçamento IPv4**, pronto para ser publicado no GitHub:
-
----
-
 # 🌐 Endereçamento IPv4  
 **Microsoft SQL Server — Projeto completo**
 
