@@ -76,5 +76,3 @@ SELECT EnderecoDecimal, EnderecoBinario FROM EnderecosIPv4;
 Este projeto está licenciado sob a MIT License.
 
 ---
-
-Se quiser que eu gere esse conteúdo como arquivo `.md` para download, posso fazer isso na próxima interação. Deseja que eu crie o arquivo agora?
